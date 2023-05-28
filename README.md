@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FabioGreenwood
+- 👋 Hi, I’m @FabioGreenwood, I have 7+ years experience in simulation and mathematical modelling
+- 🌱 I’m currently finishing off a 2 years masters at Verona Uni in data science, which I have taken to augment my 
 - 👀 I’m looking to be employed within data science or mathamatical modelling 
-- 🌱 I’m currently finishing off my masters at the University of Verona
 - 📫 My personal email: fabio.greenwood@gmail.com
 
 <!---
