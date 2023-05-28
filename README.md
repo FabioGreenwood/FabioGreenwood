@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @FabioGreenwood
-- 👀 I’m interested in mathematical modelling of systems, data science and mathematics
-- 🌱 I’m currently studying data science at the university of Verona
-- 💞️ I’m looking to collaborate on python projects involving mathematical modelling, financial modelling or any subject tackling interseting problems/maths
-- 📫 How to reach me, (until oct 2023) my university email: fabiojames.greenwood@studenti.univr.it
+- 👀 I’m looking to be employed within data science or mathamatical modelling 
+- 🌱 I’m currently finishing off my masters at the University of Verona
+- 📫 My personal email: fabio.greenwood@gmail.com
 
 <!---
 FabioGreenwood/FabioGreenwood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
