@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @FabioGreenwood, I have 7+ years experience in simulation and mathematical modelling
-- 🌱 I’m currently finishing off a 2 years masters at Verona Uni in data science, which I have taken to augment my IT skills
-- 👀 I’m looking to be employed within data science or mathamatical modelling 
+- 👋 Hi, name name is Fabio Greenwood, I have 7+ years experience in simulation, mathematical modelling and creating light IT solutions to mechnical engineering simulation problems
+- 🌱 I recently finishied off a 2 years magistrale degree (master's equivalent) at Verona Uni in data science, which I have taken to augment my IT skills.
+- 👀 I’m looking for employement within data science, machine learning or mathematical modelling
+- ☎️ My mobile is: +44 787 040 1486
 - 📫 My personal email: fabio.greenwood@gmail.com
 
 <!---
