@@ -4,7 +4,8 @@
 - ☎️ My mobile is: +44 787 040 1486
 - 📫 My personal email: fabio.greenwood@gmail.com
 
-- 📆 My favorate projects from Northcoders inc a 3 week group project, will shortly be displayed on this page....
+
+- 📆 My favourite projects from Northcoders, including a 3 week group project, will shortly be displayed on this page....
 
 <!---
 FabioGreenwood/FabioGreenwood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
