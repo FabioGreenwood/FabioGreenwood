@@ -5,7 +5,9 @@
 - 📫 My personal email: fabio.greenwood@gmail.com
 
 
-- 📆 My favourite projects from Northcoders, including a 3 week group project, will shortly be displayed on this page....
+- Good example projects on this page include:
+  - AWS-ETL...: My most recent project, a cloud ETL pipeline deployed using hashicorp terraform
+  - Social...: My university thesis, looking at factors for optimising the performance of a recurring neural network and sentiment analysis for predicting the stock market  
 
 <!---
 FabioGreenwood/FabioGreenwood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
