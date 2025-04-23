@@ -1,7 +1,9 @@
 - 👋 Hi, my name is Fabio Greenwood, I have 7.5+ years professional experience in simulation, mathematical modelling and creating light IT solutions within mech eng and operations research
 - 🌱 I recently finishied off a 2 years Magistrale degree (Master's equivalent) at Verona University in Data Science and a Data/Cloud Engineering Bootcamp at Northcoders, both of which I have taken to augment my IT skills and help me start my new chapter within data
 - 👀 I’m looking for employement within data science/engineering, machine learning or mathematical modelling. Open to both the UK and Italy
-- ☎️ My mobile is: +44 787 040 1486
+- ☎️ My mobiles are:
+  - +44 787 040 1486
+  - +39 379 289 0017
 - 📫 My personal email: fabio.greenwood@gmail.com
 
 
